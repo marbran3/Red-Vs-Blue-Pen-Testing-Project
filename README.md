@@ -1,7 +1,7 @@
 # Red-Vs-Blue-Pen-Testing-Project
 
 In this project, I played the roles of both pentester and SOC analyst. The configuration for the network is below:
-![network_diagram]
+![network_diagram](https://github.com/marbran3/Red-Vs-Blue-Pen-Testing-Project/blob/main/network%20map.drawio.png)
 
 As the pentester (Red Team), I attacked a vulnerable machine within a virtual environment, gaining root access to the machine.
 
